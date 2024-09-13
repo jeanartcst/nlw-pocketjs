@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726141806941,
+      "tag": "0000_supreme_dexter_bennett",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726145056230,
+      "tag": "0001_unknown_flatman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726146584758,
+      "tag": "0002_long_sumo",
+      "breakpoints": true
+    }
+  ]
+}
